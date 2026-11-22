@@ -1,0 +1,2 @@
+alice,$2b$12$WzYQXVjwnYR.OIdicuX6uOD0O20MZMuCbk683yeFOOlIJfEjqh2QS
+alice,$2b$12$ZjhKq/TU3AHVUduyQph2ueFRl1RGjFgFdFDXiJNImpokLzQY4V4kW
